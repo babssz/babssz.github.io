@@ -16,7 +16,7 @@ timezone:
 
 title: Aisyah Salsabila Sabri # the main title
 
-tagline: let her cooked # it will display as the subtitle
+tagline: i'm cooked # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -99,7 +99,10 @@ cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
- avatar_img: /assets/img/ava.jpg
+  enabled: true
+  gravatar:
+    email: false
+  avatar_img: /assets/img/ava.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
