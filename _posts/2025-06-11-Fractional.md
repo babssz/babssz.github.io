@@ -1,10 +1,10 @@
 ---
-title: Activity Selection Problem
+title: Fractional Knapsack
 date: 2025-05-06 
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+categories: [DESAIN ANALISIS ALGORITMA, PROGRAMING]
 tags: [knapsack-problem, fractional-knapsack, greedy-algorithm, algoritma]     # TAG names should always be lowercase
 ---
-# Mengisi Ransel Sampai Penuh: Petualangan Seru dengan Fractional Knapsack! 🎒💰
+# Fractional Knapsack! 🎒💰
 
 Hai teman-teman! Pernah gak sih kalian bayangin lagi liburan terus punya ransel yang kapasitasnya terbatas, tapi kalian pengen bawa barang sebanyak mungkin dengan nilai paling tinggi? Atau, mungkin kalian lagi main game RPG dan harus milih *item* mana yang paling berharga untuk dibawa? Nah, kalau iya, berarti kalian lagi berhadapan sama masalah yang namanya **Fractional Knapsack**!
 
