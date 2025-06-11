@@ -31,22 +31,15 @@ github:
 twitter:
   username: twitter_username # change to your Twitter username
 
-instagram:
-  username: _.babszz
-
-linkedin:
-  username: aisyah salsabila
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Aisyah Salsabila Sabri
-  email: salsabilachacha2411@gmail.com # change to your email address
+  email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/babssz # change to your GitHub homepage
-    - https://www.instagram.com/_.babszz/
-    - https://www.linkedin.com/in/aisyah-salsabila-7b2b89310/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -104,7 +97,7 @@ theme_mode: # [light | dark]
 # e.g. 'https://cdn.com'
 cdn:
 
-avatar: https://x.com/babiajaa_/photo # the avatar on sidebar, support local or CORS resources
+avatar: https://pbs.twimg.com/profile_images/1625055974406103040/pIbQK2R9_400x400.jpg # the avatar on sidebar, support local or CORS resources
 # avatar: /assets/img/avatar.jpg  # uncomment and add your avatar path if you have one
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
