@@ -97,7 +97,7 @@ theme_mode: # [light | dark]
 # e.g. 'https://cdn.com'
 cdn:
 
-avatar: https://avatars.githubusercontent.com/u/180242853?v=4 # the avatar on sidebar, support local or CORS resources
+avatar: https://instagram.fupg6-1.fna.fbcdn.net/v/t51.2885-19/420640280_1018193975909113_660113191824579031_n.jpg?_nc_ht=instagram.fupg6-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QG09QdfgIgDp5DRFvknGYvYjhjrkXjUQdWnn6-65Xaebl4MfCq5LP8jfhtJl5XPm9o&_nc_ohc=bxOC8O-VTS8Q7kNvwH_1i8x&_nc_gid=XpPjVKJoH5_FOilvpSKW_w&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfOMuGcE6XjBXG2ePQU_ZnNIyQgpur6KsquLI6o6VT5phw&oe=684EFE6F&_nc_sid=7a9f4b # the avatar on sidebar, support local or CORS resources
 # avatar: /assets/img/avatar.jpg  # uncomment and add your avatar path if you have one
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
